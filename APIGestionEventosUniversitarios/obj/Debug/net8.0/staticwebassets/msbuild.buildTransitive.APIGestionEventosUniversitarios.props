@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APIGestionEventosUniversitarios.props" />
+</Project>
