@@ -1,0 +1,13 @@
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\bin\Debug\net8.0\GestionEventosUniversitarios.API.consumer.deps.json
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\bin\Debug\net8.0\GestionEventosUniversitarios.API.consumer.dll
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\bin\Debug\net8.0\GestionEventosUniversitarios.API.consumer.pdb
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.AssemblyInfo.cs
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.sourcelink.json
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.dll
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\refint\GestionEventosUniversitarios.API.consumer.dll
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\GestionEventosUniversitarios.API.consumer.pdb
+C:\Users\GIGABYTE\Desktop\indio\GestionEventosUniversidadUtn\GestionEventosUniversitarios.API.consumer\obj\Debug\net8.0\ref\GestionEventosUniversitarios.API.consumer.dll

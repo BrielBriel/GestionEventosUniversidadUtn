@@ -10,7 +10,7 @@ namespace GestionEventosUniversitarios.API
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<AppDbContext>(options =>
-                options.UseNpgsql(
+                options.UseOracle(
                     builder.Configuration.GetConnectionString("AppDbContext"),
                     options => options.CommandTimeout(180)));
 

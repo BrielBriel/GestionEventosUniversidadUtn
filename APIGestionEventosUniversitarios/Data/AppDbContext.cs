@@ -27,4 +27,10 @@ using EventosUniversitarios;
         public DbSet<EventosUniversitarios.Reporte> Reporte { get; set; } = default!;
 
         public DbSet<EventosUniversitarios.Sesion> Sesion { get; set; } = default!;
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Pago>()
+            .Property(p => p.Monto)
+            .HasColumnType("NUMBER(10,2)");
     }
+}

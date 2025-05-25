@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "wKj7SThj9XSsnEcZfOrRnDJMFE99PbQp7xrQU0rTx1s=",
-  "Source": "GestionEventosUniversitarios.API",
-  "BasePath": "_content/GestionEventosUniversitarios.API",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"+/l5gmA6ebHPKz5mcNeeJW6TcggUTrW33J0aNw9K8fg=","Source":"GestionEventosUniversitarios.API","BasePath":"_content/GestionEventosUniversitarios.API","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
